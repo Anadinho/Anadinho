@@ -1,5 +1,5 @@
 ### Gabriel Anadinho Pinheiro 
-<img align="right" src="https://xtudodaweb.com/wp-content/uploads/2020/06/Tipos-de-Desenvolvedores.png" width="350"/>
+<img align="right" src="https://xtudodaweb.com/wp-content/uploads/2020/06/Tipos-de-Desenvolvedores.png" width="200"/>
 
 developer under construction
 
