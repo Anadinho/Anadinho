@@ -1,5 +1,5 @@
 ### Gabriel Anadinho Pinheiro 
-<img align="right" src="https://xtudodaweb.com/wp-content/uploads/2020/06/Tipos-de-Desenvolvedores.png" width="224"/>
+<img align="right" src="https://image.freepik.com/vetores-gratis/personagem-de-desenvolvedor-de-software-programador-desenvolve-ilustracao-de-codigo_80590-7310.jpg" width="224"/>
 
 developer under construction
 
