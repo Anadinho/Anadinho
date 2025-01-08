@@ -7,7 +7,7 @@ developer under construction
 
 [![Linkedin Badge](https://img.shields.io/badge/gabriel-Anadinho-8257e5?style=flat-square&labelColor=8257e5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-anadinho-0076921a3/)](https://www.linkedin.com/in/gabriel-anadinho-0076921a3/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielanadinho@gmail.com-8257e5?style=flat-square&labelColor=8257e5&logo=Gmail&logoColor=white&link=mailto:gabrielanadinho@gmail.com)](mailto:gabrielanadinho@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@gabriel.anadinho-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel.anadinho/)](https://www.instagram.com/gabriel.anadinho/)
+[![Instagram Badge](https://img.shields.io/badge/-@gabriel.anadinho-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.https://www.instagram.com/gabriel__anadinho/)](https://www.https://www.instagram.com/gabriel__anadinho/)
 
 <br>
  <h3 align="center" >Languages and Tools:</h3> 
